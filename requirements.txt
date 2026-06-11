@@ -1,15 +1,8 @@
-# Create a requirements.txt file
-echo "streamlit
+streamlit
 pandas
 numpy
 plotly
 networkx
 scikit-learn
 umap-learn
-matplotlib" > requirements.txt
-
-# Then:
-# 1. Push your code to GitHub
-# 2. Go to https://share.streamlit.io
-# 3. Connect your GitHub repo
-# 4. Deploy
+matplotlib
